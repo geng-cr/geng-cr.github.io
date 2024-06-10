@@ -1,11 +1,2 @@
-# GCHR WEB
-```更新日志 || 2024.3.3 更新新主页 | 2024.3.3 网站更名为GCHR_WEB | 2024.2.29 内容已进行一部分更新 | 2024.2.18 此网站所有内容即更新```
-## Python编程 从零到入门
-[1 Python启蒙](Python入门/1 Python启蒙)
-<br>
-[2 判断与循环](Python入门/2 判断与循环)
-<br>
-[3 列表](Python入门/3 列表)
-
-## 其他项目
-[新主页](index.html)
+这是一个个人网站 —— GengCHR Web
+地址 geng-cr.github.io
