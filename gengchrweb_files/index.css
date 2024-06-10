@@ -206,12 +206,12 @@ p.footer a:hover {
 }
 
 .content-top h2 {
-	font-size: 22px;
+	font-size: 15px;
 	color: #fff;
 	text-align: center;
-	background: #369;
+	background: #55acee;
 	padding: 12px 4px;
-	border-radius: 5px;
+	border-radius: 3px;
 }
 
 .content-top p {
